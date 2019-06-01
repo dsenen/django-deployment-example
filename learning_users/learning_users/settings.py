@@ -27,7 +27,7 @@ SECRET_KEY = 'xsw$c_ky2fb(8r=bm1vo%@d6p747g$ds_g(+t80%t*)w+2q7#b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["dsenen.pythonanywhere.com"]
 
 
 # Application definition
